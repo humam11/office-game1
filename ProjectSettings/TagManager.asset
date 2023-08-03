@@ -7,6 +7,10 @@ TagManager:
   - NecessaryPurposesBox
   - UnnecessaryPurposesBox
   - NecessaryPurpose
+  - game
+  - program
+  - gameFolder
+  - programFolder
   layers:
   - Default
   - TransparentFX

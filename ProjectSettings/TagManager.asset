@@ -11,6 +11,10 @@ TagManager:
   - program
   - gameFolder
   - programFolder
+  - recyclebin
+  - documentFolder
+  - trash
+  - document
   layers:
   - Default
   - TransparentFX

@@ -36,4 +36,9 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("MainScene");
     }
+
+    public void LoadFirstScene()
+    {
+        SceneManager.LoadScene("sortIcons");
+    }
 }
